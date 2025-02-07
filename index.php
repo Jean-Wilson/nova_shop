@@ -96,13 +96,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-home"></i> Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.html"><i class="fas fa-home"></i> Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="about.html"><i class="fas fa-info-circle"></i> About</a></li>
                     <li class="nav-item"><a class="nav-link" href="contact.html"><i class="fas fa-phone"></i> Contact</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-couch"></i> Furniture</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-tshirt"></i> Clothes</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-mobile-alt"></i> Phones</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-laptop"></i> Computers</a></li>
+                    <li class="nav-item"><a class="nav-link" href="furniture.html"><i class="fas fa-couch"></i> Furniture</a></li>
+                    <li class="nav-item"><a class="nav-link" href="clothes.html"><i class="fas fa-tshirt"></i> Clothes</a></li>
+                    <li class="nav-item"><a class="nav-link" href="phones.html"><i class="fas fa-mobile-alt"></i> Phones</a></li>
                     <li class="nav-item"><a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i> Shop</a></li>
                     <li class="nav-item"><a class="nav-link" href="user_login.html"><i class="fas fa-sign-in-alt"></i> Login</a></li>
                 </ul>
