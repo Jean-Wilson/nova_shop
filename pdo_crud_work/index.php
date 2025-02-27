@@ -66,7 +66,7 @@
 
     <div class="form-container">
         <h2> Student form</h2>
-        <form action="insert.php" method="POST">
+        <form method="POST">
             <div class="form-group">
                 <label for="firstname">First Name</label>
                 <input type="text" id="firstname" name="firstname" placeholder="Enter your first name" required>
