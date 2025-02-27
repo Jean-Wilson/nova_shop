@@ -2,7 +2,7 @@
 
 try{
 
-$pdo = new PDO("mysql:host=localhost;db_name=wilson","root","");
+$pdo = new PDO("mysql:host=localhost;db_name=wilson","root","wordpass");
 //echo"connected well";
 
 

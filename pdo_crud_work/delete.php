@@ -1,7 +1,7 @@
 <?php
 try {
     // Establish a connection to the database
-    $con = new PDO("mysql:host=localhost;dbname=wilson", 'root', '', [
+    $con = new PDO("mysql:host=localhost;dbname=wilson", 'root', 'wordpass', [
         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
     ]);
 

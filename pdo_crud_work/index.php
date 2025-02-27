@@ -89,7 +89,7 @@ if(isset($_POST['submit'])){
 // print_r($_POST);
 
 try{
-    $con= new PDO("mysql:host=localhost;dbname=wilson",'root','',[]);
+    $con= new PDO("mysql:host=localhost;dbname=wilson",'root','wordpass',[]);
     // echo"connection done";
 
     $insert1 = $con->prepare("INSERT INTO student(firstname, lastname)
