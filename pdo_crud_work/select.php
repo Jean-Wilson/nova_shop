@@ -30,7 +30,7 @@ try {
     <div class="max-w-4xl mx-auto bg-white p-6 shadow-lg rounded-lg">
         <div class="flex justify-between items-center mb-4">
             <h2 class="text-2xl font-bold">Student Records</h2>
-            <a href="insert.php" class="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded flex items-center">
+            <a href="index.php" class="bg-green-500 hover:bg-green-600 text-white py-2 px-4 rounded flex items-center">
                 <i class="fas fa-plus mr-2"></i> Add Student
             </a>
         </div>
